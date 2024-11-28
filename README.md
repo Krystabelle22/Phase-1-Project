@@ -25,3 +25,13 @@ The dataset used is from the [National Transportation Safety Board](#) (1962-202
 - Handled missing values using imputation and exclusion methods.
 - Standardized column names for consistency.
 - Filtered data to include only relevant aircraft and accidents.
+
+## Results
+
+### Recommendations:
+1. **Aircraft A**: Low accident frequency and minor severity; suitable for initial investment.
+2. **Aircraft B**: Excellent safety record for commercial use; recommended for larger-scale operations.
+3. **Aircraft C**: Moderate risk but efficient for private enterprises; consider as a secondary option.
+
+![Visualization Example](link-to-visualization)
+
