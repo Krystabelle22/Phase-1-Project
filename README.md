@@ -35,3 +35,30 @@ The dataset used is from the [National Transportation Safety Board](#) (1962-202
 
 ![Visualization Example](link-to-visualization)
 
+## Interactive Dashboard
+
+Explore the data and insights interactively using the dashboard:
+[Link to Dashboard](#)
+
+
+## Project Structure
+
+notebooks/: Jupyter Notebooks containing the analysis and visualizations.
+data/: Raw and cleaned data files.
+dashboard/: Code and files for the interactive dashboard.
+presentation.pdf: Non-technical presentation slides.
+README.md: Project documentation.
+
+
+---
+
+#### 8. **Next Steps**
+- Include suggestions for potential extensions or future work.
+
+```markdown
+## Next Steps
+
+- Expand analysis to include international aviation datasets.
+- Evaluate potential partnerships with aviation safety organizations.
+- Conduct cost-benefit analysis for recommended aircraft models.
+
