@@ -10,3 +10,18 @@ The company is expanding into the aviation industry and needs to understand the 
 1. Determine which aircraft have the lowest risk based on historical data.
 2. Provide actionable insights to guide the purchase of aircraft.
 3. Deliver recommendations to support data-driven decision-making.
+
+## Data Description
+
+The dataset used is from the [National Transportation Safety Board](#) (1962-2023). It includes aviation accident data covering civil aviation accidents and selected incidents in the United States and international waters.
+
+### Key Variables:
+- **Aircraft Type**: The model/type of aircraft involved in incidents.
+- **Accident Severity**: Classification of accidents (e.g., fatal, minor).
+- **Date and Location**: Time and location of the incidents.
+- **Cause**: Contributing factors to the incident (e.g., mechanical failure, human error).
+
+### Data Preprocessing:
+- Handled missing values using imputation and exclusion methods.
+- Standardized column names for consistency.
+- Filtered data to include only relevant aircraft and accidents.
