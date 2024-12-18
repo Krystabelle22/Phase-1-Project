@@ -30,7 +30,7 @@ The dataset used is from the [National Transportation Safety Board](#) (1962-202
 ## Links
 
 Interactive Dashboard: [Link to Dashboard](#)
-GitHub Repository: [Link to Dashboard](https://github.com/Krystabelle22/Phase-1-Project)
+GitHub Repository: [Link to Repo](https://github.com/Krystabelle22/Phase-1-Project)
 
 
 
