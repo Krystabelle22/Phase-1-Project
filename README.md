@@ -26,39 +26,13 @@ The dataset used is from the [National Transportation Safety Board](#) (1962-202
 - Standardized column names for consistency.
 - Filtered data to include only relevant aircraft and accidents.
 
-## Results
 
-### Recommendations:
-1. **Aircraft A**: Low accident frequency and minor severity; suitable for initial investment.
-2. **Aircraft B**: Excellent safety record for commercial use; recommended for larger-scale operations.
-3. **Aircraft C**: Moderate risk but efficient for private enterprises; consider as a secondary option.
+## Links
 
-![Visualization Example](link-to-visualization)
-
-## Interactive Dashboard
-
-Explore the data and insights interactively using the dashboard:
-[Link to Dashboard](#)
+Interactive Dashboard: [Link to Dashboard](#)
+GitHub Repository: [Link to Repo](#)
 
 
-## Project Structure
-
-notebooks/: Jupyter Notebooks containing the analysis and visualizations.
-data/: Raw and cleaned data files.
-dashboard/: Code and files for the interactive dashboard.
-presentation.pdf: Non-technical presentation slides.
-README.md: Project documentation.
-
-
----
 
 #### 8. **Next Steps**
-- Include suggestions for potential extensions or future work.
-
-```markdown
-## Next Steps
-
-- Expand analysis to include international aviation datasets.
-- Evaluate potential partnerships with aviation safety organizations.
-- Conduct cost-benefit analysis for recommended aircraft models.
-
+- Revisit the Dataset and ensure that it is properly cleaned.
